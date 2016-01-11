@@ -12,13 +12,14 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-    
+
         
     }
 
 
 }
+
+
 
 
 /// the right way to write a singleton
