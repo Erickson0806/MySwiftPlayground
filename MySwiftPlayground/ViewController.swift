@@ -12,15 +12,18 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+//        closure expression syntax
+        
+//        { (<#parameters#>) -> <#return type#> in
+//            <#statuments#>
+//                
+//        }
         
     }
 
 
 }
-
-
-
 
 /// the right way to write a singleton
 class TheOneAndOnly{
