@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B19C7131C45F014001B61A3 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		9BB95F4E1C429A5C00EAC33C /* MySwiftPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MySwiftPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BB95F511C429A5C00EAC33C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BB95F531C429A5C00EAC33C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +59,7 @@
 			children = (
 				9BB95F511C429A5C00EAC33C /* AppDelegate.swift */,
 				9BB95F531C429A5C00EAC33C /* ViewController.swift */,
+				9B19C7131C45F014001B61A3 /* MyPlayground.playground */,
 				9BB95FB71C434E8800EAC33C /* ApiManager.swift */,
 				9BB95F551C429A5C00EAC33C /* Main.storyboard */,
 				9BB95F581C429A5C00EAC33C /* Assets.xcassets */,
