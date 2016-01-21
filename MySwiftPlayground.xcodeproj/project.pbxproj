@@ -13,6 +13,8 @@
 		9BB95F591C429A5C00EAC33C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BB95F581C429A5C00EAC33C /* Assets.xcassets */; };
 		9BB95F5C1C429A5C00EAC33C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BB95F5A1C429A5C00EAC33C /* LaunchScreen.storyboard */; };
 		9BB95FB81C434E8800EAC33C /* ApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB95FB71C434E8800EAC33C /* ApiManager.swift */; };
+		9BDA139C1C506E510072A7FE /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDA139B1C506E510072A7FE /* HomeViewController.swift */; };
+		9BDA139E1C506E610072A7FE /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BDA139D1C506E610072A7FE /* Home.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		9BB95F5B1C429A5C00EAC33C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BB95F5D1C429A5C00EAC33C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BB95FB71C434E8800EAC33C /* ApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiManager.swift; sourceTree = "<group>"; };
+		9BDA139B1C506E510072A7FE /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		9BDA139D1C506E610072A7FE /* Home.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 			children = (
 				9BB95F511C429A5C00EAC33C /* AppDelegate.swift */,
 				9BB95F531C429A5C00EAC33C /* ViewController.swift */,
+				9BDA139B1C506E510072A7FE /* HomeViewController.swift */,
+				9BDA139D1C506E610072A7FE /* Home.storyboard */,
 				9B19C7131C45F014001B61A3 /* MyPlayground.playground */,
 				9BB95FB71C434E8800EAC33C /* ApiManager.swift */,
 				9BB95F551C429A5C00EAC33C /* Main.storyboard */,
@@ -131,6 +137,7 @@
 				9BB95F5C1C429A5C00EAC33C /* LaunchScreen.storyboard in Resources */,
 				9BB95F591C429A5C00EAC33C /* Assets.xcassets in Resources */,
 				9BB95F571C429A5C00EAC33C /* Main.storyboard in Resources */,
+				9BDA139E1C506E610072A7FE /* Home.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,6 +151,7 @@
 				9BB95F541C429A5C00EAC33C /* ViewController.swift in Sources */,
 				9BB95FB81C434E8800EAC33C /* ApiManager.swift in Sources */,
 				9BB95F521C429A5C00EAC33C /* AppDelegate.swift in Sources */,
+				9BDA139C1C506E510072A7FE /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
