@@ -12,24 +12,28 @@ class HomeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+//        private func request(url:String ,params:AnyObject? ,success:(JSON)->(),failure:(NSError)->()){
+//            
+//            
+//            Alamofire.request(.POST, url,parameters: params as? Dictionary).responseJSON() { response  in
+//                
+//                
+//                switch response.result{
+//                case .Success:
+//                    if let value = response.result.value {
+//                        let json = JSON(value)
+//                        success(json)
+//                    }
+//                    
+//                case.Failure(let error):
+//                    failure(error)
+//                }
+//            }
+//        }
 
-        // Do any additional setup after loading the view.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
-    }
-    */
+    
 
 }
