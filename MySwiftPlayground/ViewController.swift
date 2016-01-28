@@ -20,10 +20,19 @@ class ViewController: UIViewController {
 //                
 //        }
         
+       
+      
+        
 
         
     
         
+        
+    }
+    
+    
+    
+    class func addPar(param:[String:AnyObject],name:String,par:AnyObject){
         
     }
 
